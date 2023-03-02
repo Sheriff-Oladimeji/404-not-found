@@ -43,14 +43,14 @@ main {
   align-items: center;
 }
 h1 {
-  font-size: 60px;
+  font-size: 64px;
   color: var(--dark);
   letter-spacing: -0.035em;
   font-weight: 700;
 }
 .content,
 .content p {
-  width: 70%;
+  width: 75%;
 }
 .content p {
   letter-spacing: -0.035em;
