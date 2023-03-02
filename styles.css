@@ -26,6 +26,7 @@ h1{
   font-size: 60px;
   color: var(--dark);
   letter-spacing: -0.035em;
+  font-weight: 700;
 }
 section{
   width: 80%;
@@ -45,6 +46,11 @@ font-size: 14px;
 
 
 }
+main{
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+}
 .content{
   width: 70%;
 }
@@ -56,11 +62,7 @@ font-size: 14px;
 }
 
 
-main{
-  margin-top: 100px;
-  display: flex;
-  align-items: center;
-}
+
 .hero img{
   width: 80%;
 }
@@ -68,4 +70,15 @@ footer{
   font-family: 'Montserrat';
   font-size: 14px;
   color: var(--light);
+position: absolute;
+bottom: 10px;
+text-align: center;
+left: 40%;
+}
+
+footer a{
+  color: var(--light);
+  text-decoration: underline;
+  font-weight: 700;
+  font-weight: 700;
 }
