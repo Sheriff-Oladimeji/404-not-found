@@ -27,13 +27,35 @@ h1{
   color: var(--dark);
   letter-spacing: -0.035em;
 }
-main p{
-  font-size: 24px;
-}
 section{
-  width: 70%;
+  width: 80%;
   margin: 0 auto;
 }
+
+.content a{
+  padding: 15px;
+  width: 215px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+background-color: var(--dark);
+display: inline-block;
+margin-top: 20px;
+font-size: 14px;
+
+
+}
+.content{
+  width: 70%;
+}
+.content p{
+  width: 70%;
+  letter-spacing: -0.035em;
+  font-size: 24px;
+  margin: 30px 0;
+}
+
+
 main{
   margin-top: 100px;
   display: flex;
