@@ -66,4 +66,6 @@ main{
 }
 footer{
   font-family: 'Montserrat';
+  font-size: 14px;
+  color: var(--light);
 }
