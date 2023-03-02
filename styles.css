@@ -63,7 +63,7 @@ h1 {
   width: 80%;
 }
 footer {
-  font-family: "Montserrat";
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   color: var(--light);
   margin-top: 70px;
