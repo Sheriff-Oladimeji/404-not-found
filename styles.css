@@ -1,0 +1,12 @@
+:root{
+  --dark: #333333;
+--medium:  #4F4F4F;
+--light: #BDBDBD;
+
+}
+body{
+  font-family: 'Space Mono';
+}
+footer{
+  font-family: 'Montserrat';
+}
