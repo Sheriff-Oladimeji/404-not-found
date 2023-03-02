@@ -43,7 +43,7 @@ main {
   align-items: center;
 }
 h1 {
-  font-size: 64px;
+  font-size: 60px;
   color: var(--dark);
   letter-spacing: -0.035em;
   font-weight: 700;
@@ -51,14 +51,13 @@ h1 {
 .content{
   width: 70%;
 }
-.content p{
-  width: 90%;
-}
+
 .content p {
   letter-spacing: -0.035em;
-  font-size: 24px;
+  font-size: 25px;
   margin: 30px 0;
   color: var(--medium);
+  width: 75%;
 }
 
 .hero img {
