@@ -22,12 +22,7 @@ h2 a{
   color: var(--dark);
   font-size: 24px;
 }
-h1{
-  font-size: 60px;
-  color: var(--dark);
-  letter-spacing: -0.035em;
-  font-weight: 700;
-}
+
 section{
   width: 80%;
   margin: 0 auto;
@@ -51,14 +46,20 @@ main{
   display: flex;
   align-items: center;
 }
-.content{
+h1{
+  font-size: 60px;
+  color: var(--dark);
+  letter-spacing: -0.035em;
+  font-weight: 700;
+}
+.content, .content p{
   width: 70%;
 }
 .content p{
-  width: 70%;
   letter-spacing: -0.035em;
   font-size: 24px;
   margin: 30px 0;
+  color: var(--medium);
 }
 
 
@@ -70,15 +71,37 @@ footer{
   font-family: 'Montserrat';
   font-size: 14px;
   color: var(--light);
-position: absolute;
-bottom: 10px;
-text-align: center;
-left: 40%;
-}
+margin-top: 70px;
 
+}
+footer p{
+  text-align: center;
+}
 footer a{
   color: var(--light);
   text-decoration: underline;
   font-weight: 700;
   font-weight: 700;
+}
+@media(max-width: 768px) {
+  section{
+    width: 90%;
+    
+  }
+  main{
+    flex-direction: column;
+  }
+  .content, .content p{
+    width: 100%;
+  }
+  .content p{
+    font-size: 18px;
+  }
+  h1{
+    font-size: 50px;
+    
+  }
+  .hero img{
+    width: 90%;
+  }
 }
