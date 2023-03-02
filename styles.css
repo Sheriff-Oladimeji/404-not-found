@@ -48,9 +48,11 @@ h1 {
   letter-spacing: -0.035em;
   font-weight: 700;
 }
-.content,
-.content p {
-  width: 75%;
+.content{
+  width: 70%;
+}
+.content p{
+  width: 70%;
 }
 .content p {
   letter-spacing: -0.035em;
