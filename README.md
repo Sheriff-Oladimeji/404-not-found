@@ -43,7 +43,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - Where can I see your demo?
 - What was your experience?
 - What have you learned/improved?
-- Your wisdom? :)
+- Your wisdom? :
 
 ### Built With
 
@@ -64,5 +64,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 
-- GitHub [@your-username](https://{github.com/sheriffOladimeji})
-- Twitter [@your-twitter](https://{twitter.com/sheriffWebDev})
+- GitHub [Sheriff Oladimeji](https://{github.com/sheriffOladimeji})
+- Twitter [Sheriff Oladimeji](https://{twitter.com/sheriffWebDev})
